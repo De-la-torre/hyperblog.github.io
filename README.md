@@ -11,5 +11,6 @@ o que me hacia falta para tripicar mi salirio y lanzarme a la industria del teji
 * Las personalidades multiples de Freddy
 * Creado por el increíble carlos de la torre
 * incluye ejemplos en Windows, linux y mac
+* disponible para todas las edades
 
 Y como un amable recordatorio **Este readme.md es una chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve **a ver el  curso**  (https://platzi.zom/cursos/git-github/)
