@@ -36,15 +36,45 @@ body {
 
 #container h1 {
     font-size: 20px;
+    text-align: center;
 
+}
+#container .p1 {
+    text-align: center;
 }
 #post {
     background: white;
     padding: 1em;
 }
-#footer {
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
-}
+footer {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    height: 150px;
+    background-color: #37488b;
+  }
+  footer section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+  }
+  .left ul {
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    list-style: none;
+  }
+  .left li {
+    margin: 10px 0;
+  }
+  .left a {
+    text-decoration: none;
+    color: black;
+  }
+  .img-2 {
+width: 151px;
+height: 100px;
+  }
+  
